@@ -1,3 +1,4 @@
 function exercise(activity) {
-    console.log(`Today's exercise: ${activity}`);
+    return (`Today's exercise: ${activity}`);
 }
+
